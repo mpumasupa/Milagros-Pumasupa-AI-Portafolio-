@@ -16,10 +16,9 @@ data-driven projects, continuously learning and growing in the field of AI.
 ---
 
 ## Repository Structure
-...
+```
 Milagros-Pumasupa-AI-Portfolio/
 ├── README.md
-|
 ├── NLP-Course/
 │   ├── README.md
 │   ├── Project1-1/
@@ -29,32 +28,29 @@ Milagros-Pumasupa-AI-Portfolio/
 │   │   └── result/
 │   ├── Project2-2/
 │   │   ├── README.md
-│   │   ├── model.py/
+│   │   ├── model.py
 │   │   ├── dataset/
 │   │   └── result/
 │   └── Project3-3/
 │       ├── README.md
-│       ├── model.py/
+│       ├── model.py
 │       ├── dataset/
 │       └── result/
-|
 ├── MachineLearning-Course/
 │   ├── README.md
 │   ├── Project1-1/
-│       ├── README.md
-│       ├── model.py
-│       ├── dataset/
-│       └── result/
-│   
+│   │   ├── README.md
+│   │   ├── model.py
+│   │   ├── dataset/
+│   │   └── result/
 └── DeepLearning-Course/
-|    ├── README.md
-|    ├── Project1-1/
-│       ├── README.md
-│       ├── model.py
-│       ├── dataset/
-│       └── result/
-    
-...
+    ├── README.md
+    ├── Project1-1/
+    │   ├── README.md
+    │   ├── model.py
+    │   ├── dataset/
+    │   └── result/
+```
  
 ## How to use this repository
 
