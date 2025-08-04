@@ -10,8 +10,10 @@ Each project applies techniques and models to tackle real-world text tasks using
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
 | [NewsBot](./Project1-NewBot-Midterm) | The NewsBot Intelligence System is an end-to-end Natural Language Processing (NLP) pipeline that automatically analyzes, classifies, and extracts insights from news articles. Collaborative project by our NLP course group | Python, Scikit-learn, SpaCy, NLTK, Pandas, Matplotlib, and TextBlob' |
+
 | [Voice Tech in the Multiverse](./Project1-VoiceTechMultiverse) | Designing advanced voice technology for different fictional worlds by applying audio and speech processing concepts. Collaborative project by our NLP course group | Python, Librosa, and SpeechRecognition |
-| [Sentiment and Emotion Analysis] | In this project, we use text and audio to detect emotions and sentiments. We compare rule-based tools (VADER, TextBlob), build machine learning models, and explore audio features with librosa. We also consider ethical issues and present results with clear visualizations. | Python, TextBlob, VADER, scikit-learn, Librosa, Pandas, NumPy, Matplotlib, Seaborn |
+
+| [Sentiment and Emotion Analysis](./Project2-Sentiment and Emotion Analysis) | This lab focuses on sentiment and emotion analysis using both text and audio data. Rule-based methods such as VADER and TextBlob are implemented and compared in detail. Additionally, machine learning classifiers are developed for emotion detection, and emotional features are extracted from speech recordings to build a multimodal analysis framework.. | Python, TextBlob, VADER, scikit-learn, Librosa, Pandas, NumPy, Matplotlib, Seaborn |
 
 
 
