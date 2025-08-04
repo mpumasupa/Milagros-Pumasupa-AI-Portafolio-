@@ -9,7 +9,7 @@ Each project applies techniques and models to tackle real-world text tasks using
 
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
-| [NewsBot](./NewBot-Midterm) | NewsBot Intelligence System. Collaborative project by our NLP course group | 'scikit-learn', 'spaCy', 'NLTK', 'pandas', 'matplotlib', 'and textblob' |
+| [NewsBot](./Project1-NewBot-Midterm) | NewsBot Intelligence System. Collaborative project by our NLP course group | 'scikit-learn', 'spaCy', 'NLTK', 'pandas', 'matplotlib', 'and textblob' |
 | [VoiceTechMultiverse](./VoiceTechMultiverse) | Designing advanced voice technology for different fictional worlds by applying audio and speech processing concepts. | 'Python', 'Librosa', 'and SpeechRecognition' |
 
 Sentiment analysis on product reviews. | `NLTK`, `WordCloud`, `Logistic Regression` |
