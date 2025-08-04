@@ -1,1 +1,1 @@
-
+This lab focuses on sentiment and emotion analysis using both text and audio data. Rule-based methods such as VADER and TextBlob are implemented and compared in detail. Additionally, machine learning classifiers are developed for emotion detection, and emotional features are extracted from speech recordings to build a multimodal analysis framework.
