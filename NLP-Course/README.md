@@ -9,7 +9,7 @@ Each project applies techniques and models to tackle real-world text tasks using
 
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
-| [NewsBot](./NewBot-Midterm) | NewsBot Intelligence System. Collaborative project by our NLP course group | `OpenAI API`, `NewsAPI`, `streamlit`, `LangChain` |
+| [NewsBot](./NewBot-Midterm) | NewsBot Intelligence System. Collaborative project by our NLP course group | 'scikit-learn', 'spaCy', 'NLTK', 'pandas', 'matplotlib', 'and textblob' |
 | [Project2-2](./Project2-2) | Sentiment analysis on product reviews. | `NLTK`, `WordCloud`, `Logistic Regression` |
 | [Project3-3](./Project3-3) | Automatic text summarization. | `spaCy`, `sumy`, `TextRank` |
 | [NewsBot](./Project4-4-NewsBot) | Chatbot that responds with current news. Collaborative project adapted from [@Osakhra](https://github.com/Osakhra). | `OpenAI API`, `NewsAPI`, `streamlit`, `LangChain` |
