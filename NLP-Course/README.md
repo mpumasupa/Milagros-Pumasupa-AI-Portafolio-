@@ -1,55 +1,35 @@
-# NewsBot Intelligence System
+# Natural Language Processing - ITAI-2373 - Summer 2025 - CRN: 14721
 
-## Project Overview
-The NewsBot Intelligence System is an end-to-end Natural Language Processing (NLP) pipeline that automatically analyzes, classifies, and extracts insights from news articles. Built for real-world applications, this project demonstrates all major NLP techniques covered in our course, including preprocessing, feature extraction, sentiment analysis, classification, and entity recognition.
+This directory contains the projects developed during the Natural Language Processing course. 
+Each project applies techniques and models to tackle real-world text tasks using Python and modern NLP libraries.
 
-How to Use
-Clone or download this repository.
-Upload BBC News Train.csv into the notebook environment or use your own compatible dataset (minimum 500 articles, 4+ categories, English).
-Open notebooks/newsbot_pipeline.ipynb in Google Colab or Jupyter Notebook.
-Run each cell in order from top to bottom.
-Review the visualizations and model results for insights.
-Repository Structure
-ITAI2373-NewsBot-Midterm/
+---
 
-├── data/
+## Contents
 
-│ └── BBC News Train.csv # Original dataset
+| Project | Description | Key Technologies |
+|---------|-------------|------------------|
+| [NewsBot](./NewBot-Midterm) | NewsBot Intelligence System. Collaborative project by our NLP course group | `OpenAI API`, `NewsAPI`, `streamlit`, `LangChain` |
+| [Project2-2](./Project2-2) | Sentiment analysis on product reviews. | `NLTK`, `WordCloud`, `Logistic Regression` |
+| [Project3-3](./Project3-3) | Automatic text summarization. | `spaCy`, `sumy`, `TextRank` |
+| [NewsBot](./Project4-4-NewsBot) | Chatbot that responds with current news. Collaborative project adapted from [@Osakhra](https://github.com/Osakhra). | `OpenAI API`, `NewsAPI`, `streamlit`, `LangChain` |
 
-├── notebooks/
+---
 
-│ └── newsbot_pipeline.ipynb # Main notebook
+## Tools Used
 
-├── docs/
+- Python  
+- Google Colab
+- Pandas, Scikit-learn, NLTK, spaCy  
+- Git and GitHub for version control
 
-│ ├── README.md # This file
+---
 
-│ └── NewsBot_Reflection.pdf
+## Author
 
-└── optional/
+Milagros Pumasupa Terán  
+Artificial Intelligence Student | NLP   
+[GitHub](https://github.com/mpumasupa)
 
-└── demonstration_video_link.txt #
+---
 
-Key Features & Insights
-Preprocessing: Cleans and standardizes all news text for reliable analysis.
-TF-IDF Analysis: Highlights the most important terms driving each news category.
-POS & Syntax: Reveals grammatical patterns and writing style differences.
-Sentiment Analysis: Quantifies article tone and tracks mood by category.
-Classification: Automatically assigns news articles to categories with high accuracy.
-Entity Recognition: Extracts and summarizes key people, organizations, and places.
-Team Contributions
-Name	Modules/Responsibilities
-John Castor	Preprocessing, Sentiment, Documentation
-Dylan Castillo	Classification, NER, Data Setup
-Milagros Pumasupa	Feature Extraction, POS, Syntax Analysis
-Ola Bakare	Named Entity Recognition, notebook organization
-Demo & Presentation
-Video Walkthrough: https://youtu.be/1xrNLgBblAo
-Next Steps / Future Improvements
-Integrate more advanced models (e.g., SVM, BERT)
-Build a web dashboard for real-time news analysis
-Add trend and topic modeling capabilities
-License & Acknowledgments
-Dataset: BBC News Classification Dataset - Kaggle
-Built using scikit-learn, spaCy, NLTK, pandas, matplotlib, and textblob
-For educational use in ITAI2373
