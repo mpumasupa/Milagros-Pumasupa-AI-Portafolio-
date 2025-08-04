@@ -1,5 +1,6 @@
-NewsBot Intelligence System
-Project Overview
+# NewsBot Intelligence System
+
+## Project Overview
 The NewsBot Intelligence System is an end-to-end Natural Language Processing (NLP) pipeline that automatically analyzes, classifies, and extracts insights from news articles. Built for real-world applications, this project demonstrates all major NLP techniques covered in our course, including preprocessing, feature extraction, sentiment analysis, classification, and entity recognition.
 
 How to Use
