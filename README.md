@@ -21,33 +21,14 @@ Milagros-Pumasupa-AI-Portfolio/
 ├── NLP-Course/
 │   ├── README.md
 │   ├── Project1-NewBot-Midterm/
-│   │   ├── README.md
-│   │   ├── dataset/
-│   │   ├── docs/
-│   │   ├── notebooks/
-│   │   └── optional/
-│   │   
 │   ├── Project2-Sentiment-and-Emotion-Analysis/
-│   │   ├── README.md
-│   │   └── notebooks/
-│   │
 │   └── Project3-Voice-Tech-in-the-Multiverse/
-│       ├── README.md
-│       └── docs/
 ├── MachineLearning-Course/
 │   ├── README.md
-│   ├── Project1-1/
-│      ├── README.md
-│      ├── model.py
-│      ├── dataset/
-│      └── result/
+│   └── Project1-1/
 └── DeepLearning-Course/
     ├── README.md
-    ├── Project1-1/
-       ├── README.md
-       ├── model.py
-       ├── dataset/
-       └── result/
+    └── Project1-1/
 ```
  
 ## How to use this repository
@@ -55,6 +36,33 @@ Milagros-Pumasupa-AI-Portfolio/
 1. Explore each course folder.
 2. Inside each course, explore the projects.
 3. Each project has its own README with instructions, documentation, code, data and metrics.
+
+Table of Contents
+NLP Course Projects
+Project 1: NewBot-Midterm
+Project 2: Sentiment and Emotion Analysis
+Project 3: Voice Tech in the Multiverse
+
+Machine Learning Course
+Project 1
+
+Deep Learning Course
+Project 1
+
+
+able of Contents
+🔤 NLP Course Projects
+Project 1: NewBot (Midterm)
+
+Project 2: Sentiment and Emotion Analysis
+
+Project 3: Voice Tech in the Multiverse
+
+📊 Machine Learning Course
+Project 1
+
+🧠 Deep Learning Course
+Project 1
 
 
 Thank you for visiting my portfolio! 
