@@ -40,6 +40,11 @@ Milagros-Pumasupa-AI-Portfolio/
     └── Project1-1/            # Projects coming soon as the course progresses
 
 ```
+## How to use this repository
+
+1. Explore each course folder.
+2. Inside each course, explore the projects.
+3. Each project has its own README with instructions, documentation, code, data and metrics.
 
 ## Portfolio Structure
 
@@ -48,13 +53,6 @@ Milagros-Pumasupa-AI-Portfolio/
 | [NLP](./NLP-Course)                         | - [NewBot (Midterm)](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) | Applied NLP techniques to real-world problems including classification, sentiment/emotion analysis, and speech/audio processing. |
 | [MachineLearning](./MachineLearning-Course) | [](./MachineLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                 | Classical ML techniques to be developed during the course.                                                                       |
 | [DeepLearning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
-
-
-## How to use this repository
-
-1. Explore each course folder.
-2. Inside each course, explore the projects.
-3. Each project has its own README with instructions, documentation, code, data and metrics.
 
 
 Thank you for visiting my portfolio! 
