@@ -31,23 +31,23 @@ Milagros-Pumasupa-AI-Portfolio/
 │   │   ├── README.md
 │   │   └── notebooks/
 │   │
-└── Project3-Voice-Tech-in-the-Multiverse/
+│   └── Project3-Voice-Tech-in-the-Multiverse/
 │       ├── README.md
 │       └── docs/
 ├── MachineLearning-Course/
 │   ├── README.md
 │   ├── Project1-1/
-│   │   ├── README.md
-│   │   ├── model.py
-│   │   ├── dataset/
-│   │   └── result/
+│      ├── README.md
+│      ├── model.py
+│      ├── dataset/
+│      └── result/
 └── DeepLearning-Course/
     ├── README.md
     ├── Project1-1/
-    │   ├── README.md
-    │   ├── model.py
-    │   ├── dataset/
-    │   └── result/
+       ├── README.md
+       ├── model.py
+       ├── dataset/
+       └── result/
 ```
  
 ## How to use this repository
