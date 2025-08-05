@@ -40,7 +40,13 @@ Milagros-Pumasupa-AI-Portfolio/
     └── Project1-1/            # Projects coming soon as the course progresses
 
 ```
- 
+
+| Course                                             | Projects                                                                                                                                                                                                                                                                               | Description                                                                                                                      |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [NLP-Course](./NLP-Course)                         | - [Project 1: NewBot (Midterm)](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Project 2: Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Project 3: Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) | Applied NLP techniques to real-world problems including classification, sentiment/emotion analysis, and speech/audio processing. |
+| [MachineLearning-Course](./MachineLearning-Course) | - [Project 1](./MachineLearning-Course/Project1-1/) <br> - ⏳ More projects coming soon                                                                                                                                                                                                 | Classical ML techniques to be developed during the course.                                                                       |
+| [DeepLearning-Course](./DeepLearning-Course)       | - [Project 1](./DeepLearning-Course/Project1-1/) <br> - ⏳ More projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
+
 ## How to use this repository
 
 1. Explore each course folder.
