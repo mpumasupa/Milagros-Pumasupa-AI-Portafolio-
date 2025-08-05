@@ -29,9 +29,15 @@ Milagros-Pumasupa-AI-Portfolio/
 │   ├── Project2-Sentiment-and-Emotion-Analysis/
 │   │   ├── README.md
 │   │   └── notebooks/
-│   └── Project3-Voice-Tech-in-the-Multiverse/
+│   ├── Project3-Voice-Tech-in-the-Multiverse/
+│   │   ├── README.md
+│   │   └── docs/
+│   └── Project4-NewBot-2.0-FinalProject/
 │       ├── README.md
-│       └── docs/
+│       ├── dataset/           
+│       ├── docs/              
+│       ├── notebooks/         
+│       └── optional/          
 ├── MachineLearning-Course/
 │   ├── README.md
 │   └── Project1-1/            # Projects coming soon as the course progresses
@@ -50,7 +56,7 @@ Milagros-Pumasupa-AI-Portfolio/
 
 | Course                                             | Projects                                                                                                                                                                                                                                                                                                   | Description                                                                                                                      |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [NLP](./NLP-Course)                         | - [NewBot (Midterm)](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) | This folder contains projects and lab assignments developed during the Natural Language Processing (NLP) course. It includes both foundational and advanced NLP techniques such as sentiment and emotion analysis, machine translation, large language models, and conversational AI. |
+| [NLP](./NLP-Course)                         | - [NewBot)](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) <br>- [NewBot 2.0)](./NLP-Course/Project4-NewBot-2.0-FinalProject/) | This folder contains projects and lab assignments developed during the Natural Language Processing (NLP) course. It includes both foundational and advanced NLP techniques such as sentiment and emotion analysis, machine translation, large language models, and conversational AI. |
 | [Machine Learning](./MachineLearning-Course) | [](./MachineLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                 | Classical ML techniques to be developed during the course.                                                                       |
 | [Deep Learning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
 
