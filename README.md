@@ -1,4 +1,4 @@
-# Milagros Pumasupa - AI Portafolio and Data Science Portfolio
+# Milagros Pumasupa - AI Portafolio
 Welcome! My name is **Milagros Pumasupa**. This repository is my professional portfolio showcasing projects in Artificial Intelligence,
 Natural Language Processing (NLP), and—soon—Machine Learning and Deep Learning.
 
