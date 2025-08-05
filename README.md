@@ -37,33 +37,6 @@ Milagros-Pumasupa-AI-Portfolio/
 2. Inside each course, explore the projects.
 3. Each project has its own README with instructions, documentation, code, data and metrics.
 
-Table of Contents
-NLP Course Projects
-Project 1: NewBot-Midterm
-Project 2: Sentiment and Emotion Analysis
-Project 3: Voice Tech in the Multiverse
-
-Machine Learning Course
-Project 1
-
-Deep Learning Course
-Project 1
-
-
-able of Contents
-🔤 NLP Course Projects
-Project 1: NewBot (Midterm)
-
-Project 2: Sentiment and Emotion Analysis
-
-Project 3: Voice Tech in the Multiverse
-
-📊 Machine Learning Course
-Project 1
-
-🧠 Deep Learning Course
-Project 1
-
 
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
