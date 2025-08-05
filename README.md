@@ -21,14 +21,24 @@ Milagros-Pumasupa-AI-Portfolio/
 ├── NLP-Course/
 │   ├── README.md
 │   ├── Project1-NewBot-Midterm/
+│   │   ├── README.md
+│   │   ├── dataset/           # Data files used in the project
+│   │   ├── docs/              # Reports, references, or design notes
+│   │   ├── notebooks/         # Jupyter/Colab notebooks
+│   │   └── optional/          # Extra or supporting materials
 │   ├── Project2-Sentiment-and-Emotion-Analysis/
+│   │   ├── README.md
+│   │   └── notebooks/
 │   └── Project3-Voice-Tech-in-the-Multiverse/
+│       ├── README.md
+│       └── docs/
 ├── MachineLearning-Course/
 │   ├── README.md
-│   └── Project1-1/ Projects coming soon as the course progresses
+│   └── Project1-1/            # Projects coming soon as the course progresses
 └── DeepLearning-Course/
     ├── README.md
-    └── Project1-1/ Projects coming soon as the course progresses
+    └── Project1-1/            # Projects coming soon as the course progresses
+
 ```
  
 ## How to use this repository
