@@ -1,7 +1,6 @@
 # Natural Language Processing - ITAI-2373
 
-This directory contains the projects developed during the Natural Language Processing course. 
-Each project applies techniques and models to tackle real-world text tasks using Python and modern NLP libraries.
+This folder contains projects and lab assignments developed during the Natural Language Processing (NLP) course. It includes both foundational and advanced NLP techniques such as sentiment and emotion analysis, machine translation, large language models, and conversational AI.
 
 ---
 
