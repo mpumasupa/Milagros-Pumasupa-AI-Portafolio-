@@ -25,10 +25,10 @@ Milagros-Pumasupa-AI-Portfolio/
 │   └── Project3-Voice-Tech-in-the-Multiverse/
 ├── MachineLearning-Course/
 │   ├── README.md
-│   └── Project1-1/
+│   └── Project1-1/ Projects coming soon as the course progresses
 └── DeepLearning-Course/
     ├── README.md
-    └── Project1-1/
+    └── Project1-1/ Projects coming soon as the course progresses
 ```
  
 ## How to use this repository
