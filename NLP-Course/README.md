@@ -1,4 +1,4 @@
-# Natural Language Processing - ITAI-2373 - Summer 2025 - CRN: 14721
+# Natural Language Processing - ITAI-2373
 
 This directory contains the projects developed during the Natural Language Processing course. 
 Each project applies techniques and models to tackle real-world text tasks using Python and modern NLP libraries.
