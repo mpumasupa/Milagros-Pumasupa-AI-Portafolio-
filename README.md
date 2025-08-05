@@ -32,7 +32,7 @@ Milagros-Pumasupa-AI-Portfolio/
 │   ├── Project3-Voice-Tech-in-the-Multiverse/
 │   │   ├── README.md
 │   │   └── docs/
-│   └── Project4-NewBot-2.0-FinalProject/
+│   └── Project4-NewBot-2.0-FinalProject/ # The project is currently ongoing and continuously evolving.
 │       ├── README.md
 │       ├── dataset/           
 │       ├── docs/              
