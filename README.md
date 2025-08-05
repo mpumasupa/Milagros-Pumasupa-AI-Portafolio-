@@ -42,7 +42,7 @@ Milagros-Pumasupa-AI-Portfolio/
 ```
 
 ## Portfolio Structure
-...
+
 | Course                                             | Projects                                                                                                                                                                                                                                                                                                   | Description                                                                                                                      |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [NLP](./NLP-Course)                         | - [NewBot (Midterm)](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) | Applied NLP techniques to real-world problems including classification, sentiment/emotion analysis, and speech/audio processing. |
