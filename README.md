@@ -20,21 +20,20 @@ Milagros-Pumasupa-AI-Portfolio/
 ├── README.md
 ├── NLP-Course/
 │   ├── README.md
-│   ├── Project1-1/
+│   ├── Project1-NewBot-Midterm/
 │   │   ├── README.md
-│   │   ├── model.py
 │   │   ├── dataset/
-│   │   └── result/
-│   ├── Project2-2/
+│   │   ├── docs/
+│   │   ├── notebooks/
+│   │   └── optional/
+│   │   
+│   ├── Project2-Sentiment-and-Emotion-Analysis/
 │   │   ├── README.md
-│   │   ├── model.py
-│   │   ├── dataset/
-│   │   └── result/
-│   └── Project3-3/
+│   │   └── notebooks/
+│   │
+└── Project3-Voice-Tech-in-the-Multiverse/
 │       ├── README.md
-│       ├── model.py
-│       ├── dataset/
-│       └── result/
+│       └── docs/
 ├── MachineLearning-Course/
 │   ├── README.md
 │   ├── Project1-1/
