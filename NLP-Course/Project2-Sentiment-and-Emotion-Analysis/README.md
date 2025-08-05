@@ -8,5 +8,13 @@ This lab focuses on sentiment and emotion analysis using both text and audio dat
 4. Run each cell in order from top to bottom.
 5. Review the visualizations and model results for insights.
 
+Repository Structure
+Project2-Sentiment-and-Emotion-Analysis
+
+├── docs/
+
+│ ├── README.md # This file
+
+
 
 
