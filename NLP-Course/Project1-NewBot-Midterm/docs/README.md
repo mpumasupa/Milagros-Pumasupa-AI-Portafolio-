@@ -11,7 +11,7 @@ The NewsBot Intelligence System is an end-to-end Natural Language Processing (NL
 5. Review the visualizations and model results for insights.
 
 ## Repository Structure
-ITAI2373-NewsBot-Midterm/
+Project1-NewsBot-Midterm/
 
 ├── data/
 
