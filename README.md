@@ -36,7 +36,7 @@ Milagros-Pumasupa-AI-Portfolio/
 │       ├── data/           
 │       ├── docs/              
 │       ├── notebooks/        
-│       └── src/          
+│       └── src/                ### Contains the main source code of the NewsBot project, structured into submodules handling tasks such as text analysis, conversational processing, language modeling, and general utilities.         
 ├── MachineLearning-Course/
 │   ├── README.md
 │   └── Project1-1/            # Projects coming soon as the course progresses
