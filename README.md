@@ -32,14 +32,11 @@ Milagros-Pumasupa-AI-Portfolio/
 │   │   ├── README.md
 │   │   └── docs/
 │   └── Project4-NewBot-2.0-FinalProject/ # The project is currently ongoing and continuously evolving.
-│       ├── README.md
-│       ├── config/        
+│       ├── README.md       
 │       ├── data/           
 │       ├── docs/              
-│       ├── notebooks/
-│       ├── reports/
-│       ├── src/          
-│       └── test/          
+│       ├── notebooks/        
+│       └── src/          
 ├── MachineLearning-Course/
 │   ├── README.md
 │   └── Project1-1/            # Projects coming soon as the course progresses
