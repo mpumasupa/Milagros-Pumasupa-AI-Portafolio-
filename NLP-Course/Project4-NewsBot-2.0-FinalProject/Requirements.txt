@@ -1,0 +1,40 @@
+# Core Data & ML
+pandas
+numpy
+scikit-learn
+scipy
+
+# NLP Processing
+nltk
+spacy
+langdetect
+textblob
+gensim
+pyldavis
+sumy
+sentence-transformers
+
+# Transformers & Deep Learning
+transformers
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+# Translation
+googletrans==4.0.0-rc1
+
+# API & Web Interface
+fastapi
+uvicorn
+gradio
+
+# Utilities
+chardet
+idna
+
+# Project-specific dependencies
+breadability
+pycountry
+funcy
