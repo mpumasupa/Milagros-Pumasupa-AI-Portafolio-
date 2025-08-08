@@ -66,34 +66,6 @@ Project4-NewsBot-2.0-FinalProject/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-│
-├── data/
-│   ├── raw/                  # Original datasets
-│   ├── processed/            # Cleaned datasets
-│   └── models/               # Saved ML models & vectorizers
-│
-├── src/
-│   ├── analysis/             # Classifier, sentiment, topic modeling, NER
-│   ├── conversation/         # Intent & query processors
-│   ├── data_processing/      # Preprocessing & feature extraction
-│   ├── language_models/      # Summarization & translation
-│   └── utils/                # Helper functions
-│
-├── notebooks/
-│   ├── 01_Data_Exploration.ipynb
-│   ├── 02_Advanced_Classification.ipynb
-│   ├── 03_Topic_Modeling.ipynb
-│   ├── 04_Sentiment_Analysis.ipynb
-│   ├── 05_Text_Summarization.ipynb
-│   ├── 06_Multilingual_Analysis.ipynb
-│   ├── 07_Conversational_Interface.ipynb
-│   ├── 08_System_Integration.ipynb
-│   └── 09_Web_Interface.ipynb
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
