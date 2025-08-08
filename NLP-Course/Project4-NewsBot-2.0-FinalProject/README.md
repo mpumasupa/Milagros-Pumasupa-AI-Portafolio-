@@ -37,7 +37,34 @@ This project was built **module-by-module**, following professional software dev
 ## 📂 Project Structure
 
 ```
-ITAI2373-NewsBot-Final/
+Project4-NewsBot-2.0-FinalProject/
+│
+├── data/
+│   ├── raw/                  # Original datasets
+│   ├── processed/            # Cleaned datasets
+│   └── models/               # Saved ML models & vectorizers
+│
+├── src/
+│   ├── analysis/             # Classifier, sentiment, topic modeling, NER
+│   ├── conversation/         # Intent & query processors
+│   ├── data_processing/      # Preprocessing & feature extraction
+│   ├── language_models/      # Summarization & translation
+│   └── utils/                # Helper functions
+│
+├── notebooks/
+│   ├── 01_Data_Exploration.ipynb
+│   ├── 02_Advanced_Classification.ipynb
+│   ├── 03_Topic_Modeling.ipynb
+│   ├── 04_Sentiment_Analysis.ipynb
+│   ├── 05_Text_Summarization.ipynb
+│   ├── 06_Multilingual_Analysis.ipynb
+│   ├── 07_Conversational_Interface.ipynb
+│   ├── 08_System_Integration.ipynb
+│   └── 09_Web_Interface.ipynb
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
 │
 ├── data/
 │   ├── raw/                  # Original datasets
@@ -74,8 +101,8 @@ ITAI2373-NewsBot-Final/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Osakhra/ITAI2373-NewsBot-Final.git
-cd ITAI2373-NewsBot-Final
+git clone https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/NLP-Course/Project4-NewsBot-2.0-FinalProject
+cd Project4-NewsBot-2.0-FinalProject
 ```
 
 ### 2️⃣ Install Dependencies
