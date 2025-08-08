@@ -2,7 +2,8 @@
 
 ## 📌 Overview
 
-NewsBot 2.0 is an **AI-powered, end-to-end news analysis and intelligence platform** I developed as part of my ITAI2373 final project.
+NewsBot 2.0 is an **AI-powered, end-to-end news analysis and intelligence platform** I developed as part of my ITAI2373 final project. This is a collaborative project by our NLP course group.
+
 It processes, analyzes, and interacts with news articles in real time using advanced **Natural Language Processing (NLP)** and **Machine Learning** techniques.
 
 The system can:
