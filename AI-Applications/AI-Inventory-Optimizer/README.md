@@ -11,29 +11,21 @@
 
 The AI Inventory Optimizer is an AI-powered system designed to improve inventory management for retail stores by predicting weekly product demand, recommending trending products, and providing actionable insights through an interactive dashboard. The system aims to reduce overstock and stockouts, optimize product availability, and enhance business profitability.
 
-The project was developed as part of the ITAI 2277 course and involved data preprocessing, model development, evaluation, and deployment of a working prototype (MVP).
+The project was developed as part of the ITAI 2277:Artificial Intelligence Resource course and involved data preprocessing, model development, evaluation, and deployment of a working prototype (MVP).
 
 ---
-
-## Team Members
-
-- Milagros Pumasupa  
-- Ahad Maredia  
-- Larry Towett  
-- Yasmin Bello  
-
----
-
 ## Project Structure
 
-```AI-Inventory-Optimizer/
+```
+AI-Inventory-Optimizer/
 ├── notebooks/
 │ ├── Model_training_baseline_AI_Inventory_Optimizer.ipynb
 │ └── Model_optimization_and_evaluation_AI_Inventory_Optimizer.ipynb
 ├── data/
 │ ├── train.csv
 │ ├── features.csv
-│ └── stores.csv
+│ ├── stores.csv
+│ └── walmart_preprocessed.zip # Preprocessed and cleaned dataset for modeling
 ├── mvp/
 │ └── inventory_mvp # Final integrated prototype
 ├── reports/
@@ -43,15 +35,43 @@ The project was developed as part of the ITAI 2277 course and involved data prep
 │ └── helper_functions.py
 └── README.md
 ```
+## Project Reports
 
+### 1. Data Report
+- Historical sales data exploration and cleaning  
+- Feature engineering including lag features and trend indicators  
+- Handling missing values and outliers  
+- Summary statistics and initial insights  
 
-- **notebooks/**: Jupyter notebooks for data preprocessing, model training, optimization, and evaluation.  
-- **data/**: original datasets obtained from Kaggle (Walmart Sales Forecasting).  
-- **mvp/**: the final working prototype developed and integrated by the team.  
-- **reports/**: evaluation and project reflection reports.  
-- **src/**: optional Python scripts for helper functions.  
+### 2. Evaluation Report
+- Baseline model performance (Linear Regression)  
+- Advanced models: Random Forest, Gradient Boosting, XGBoost  
+- Hyperparameter tuning and cross-validation  
+- Model comparison and selection based on accuracy, RMSE, and business metrics  
 
 ---
+
+## Team Members
+
+| Name | Role / Contribution |
+|------|-------------------|
+| Milagros Pumasupa | Data preprocessing, feature engineering, report writing, and Model experimentation and tuning |
+| Ahad Maredia | Model experimentation and tuning |
+| Larry Towett | MVP prototype development and integration |
+| Yasmin Bello | Data visualization and dashboard creation, and MVP prototype development and integration |
+
+---
+
+## Tools Used
+
+- Python  
+- Google Colab  
+- Pandas, NumPy, scikit-learn  
+- XGBoost  
+- Git and GitHub  
+
+---
+
 
 ## Data Sources
 
@@ -60,6 +80,7 @@ The project was developed as part of the ITAI 2277 course and involved data prep
   - `train.csv` – historical weekly sales data by store and department
   - `features.csv` – external variables (fuel prices, CPI, unemployment, markdowns)
   - `stores.csv` – metadata for each store (type, size)
+  - `walmart_preprocessed.zip` – preprocessed and cleaned dataset used for model training
 
 All data is anonymized and aggregated at the store level to protect privacy.
 
@@ -117,4 +138,5 @@ Model_optimization_and_evaluation_AI_Inventory_Optimizer.ipynb
 Access the final integrated MVP in mvp/inventory_mvp.
 
 License
-This project is developed for educational purposes as part of ITAI 2277.
+
+This project is developed for educational purposes as part of ITAI 2277:Artificial Intelligence Resource course.
