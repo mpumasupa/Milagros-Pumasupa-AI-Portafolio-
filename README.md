@@ -65,22 +65,45 @@ Milagros-Pumasupa-AI-Portfolio/
 
 ## Portfolio Structure
 
-| Course                                             | Projects                                                                                                                                                                                                                                                                                                   | Description                                                                                                                      |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [NLP](./NLP-Course)                         | - [NewBot](./NLP-Course/Project1-NewBot-Midterm/) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis/) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse/) <br>- [NewBot 2.0](./NLP-Course/Project4-NewsBot-2.0-FinalProject) | This folder contains projects and lab assignments developed during the Natural Language Processing (NLP) course. It includes both foundational and advanced NLP techniques such as sentiment and emotion analysis, machine translation, large language models, and conversational AI. |
-| [Machine Learning](./MachineLearning-Course) | [](./MachineLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                 | Classical ML techniques to be developed during the course.                                                                       |
-| [Deep Learning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
-| [AI Applications](AI-Applications/)<br> | - [AI Research Agent](AI-Applications/AI-Research-Agent/)<br>- [AI Inventory Optimizer](AI-Applications/AI-Inventory-Optimizer/) | This folder contains projects and assignments developed during the AI Applications course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development. |
-
-## Portfolio Structure
-
-| Course | Projects | Description |
-|--------|----------|-------------|
-| [NLP](./NLP-Course) | - [NewsBot](./NLP-Course/Project1-NewBot-Midterm) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse) <br> - [NewsBot 2.0](./NLP-Course/Project4-NewBot-2.0-FinalProject) | Projects include text analysis, sentiment and emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers. |
-| [AI Applications](./AI-Applications) | - [AI Research Agent](./AI-Applications/AI-Research-Agent) <br> - [AI Inventory Optimizer](./AI-Applications/AI-Inventory-Optimizer) | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
-| [Machine Learning](./MachineLearning-Course) | - Projects coming soon | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
-| [Deep Learning](./DeepLearning-Course) | - Projects coming soon | Focus on neural networks, CNNs, RNNs, and other deep learning models applied to various tasks. |
-
+<table>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th style="width: 300px; font-size: 0.9em;">Projects</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./NLP-Course">NLP</a></td>
+      <td style="font-size: 0.85em;">
+        <a href="./NLP-Course/Project1-NewBot-Midterm">NewsBot</a><br>
+        <a href="./NLP-Course/Project2-Sentiment-and-Emotion-Analysis">Sentiment and Emotion Analysis</a><br>
+        <a href="./NLP-Course/Project3-Voice-Tech-in-the-Multiverse">Voice Tech in the Multiverse</a><br>
+        <a href="./NLP-Course/Project4-NewBot-2.0-FinalProject">NewsBot 2.0</a>
+      </td>
+      <td>Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers.</td>
+    </tr>
+    <tr>
+      <td><a href="./AI-Applications">AI Applications</a></td>
+      <td style="font-size: 0.85em;">
+        <a href="./AI-Applications/AI-Research-Agent">AI Research Agent</a><br>
+        <a href="./AI-Applications/AI-Inventory-Optimizer">AI Inventory Optimizer</a>
+      </td>
+      <td>Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs.</td>
+    </tr>
+    <tr>
+      <td><a href="./MachineLearning-Course">Machine Learning</a></td>
+      <td style="font-size: 0.85em;">Projects coming soon</td>
+      <td>Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering.</td>
+    </tr>
+    <tr>
+      <td><a href="./DeepLearning-Course">Deep Learning</a></td>
+      <td style="font-size: 0.85em;">Projects coming soon</td>
+      <td>Focus on neural networks, CNNs, RNNs, and other deep learning models applied to various tasks.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 Thank you for visiting my portfolio! 
