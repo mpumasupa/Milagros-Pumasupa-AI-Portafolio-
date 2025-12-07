@@ -1,10 +1,8 @@
 
 # Milagros Pumasupa - AI Portafolio
-Welcome! My name is **Milagros Pumasupa**. This repository contains my personal portfolio of AI-related coursework and projects, organized by course and topic. Each folder represents a course, and within each course are projects demonstrating specific concepts and techniques in NLP, Machine Learning, and Deep Learning.
+Welcome! My name is **Milagros Pumasupa**. This repository contains my personal portfolio of AI-related coursework and projects, organized by course and topic. Each folder represents a course, and within each course are projects demonstrating specific concepts and techniques in NLP, Machine Learning, Deep Learning, and AI Applications.
 
-I hold a Bachelor’s degree in Statistics and am currently enrolled in a Natural Language Processing course, aiming to enhance and update 
-my data analysis skills through the application of artificial intelligence (AI). My goal is to develop impactful solutions through 
-data-driven projects, continuously learning and growing in the field of AI.
+I hold a Bachelor’s degree in Statistics and am currently pursuing coursework in Artificial Intelligence, including Natural Language Processing, Machine Learning, Deep Learning, and AI Applications. My goal is to develop impactful, data-driven solutions across various domains, continuously learning and growing in the field of AI through hands-on projects and research.
 
 ---
 ## About Me
