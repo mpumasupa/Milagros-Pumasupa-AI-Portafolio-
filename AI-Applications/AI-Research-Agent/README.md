@@ -8,28 +8,6 @@ This project is ideal for academics, students, and professionals who need a fast
 
 ---
 
-## Problem Statement
-
-Research often involves sifting through large volumes of documents to extract relevant information, which is time-consuming and prone to human error.  
-AI Research Agent addresses this problem by:
-
-- Automatically reading and indexing PDFs and Word documents.
-- Retrieving the most relevant content for a given query.
-- Generating a structured research plan and summary for rapid understanding.
-
----
-
-## Value Proposition
-
-AI Research Agent creates value by:
-
-- Streamlining document analysis for research projects.
-- Offering AI-generated plans and summaries to guide research decisions.
-- Reducing manual effort and helping users extract insights faster.
-- Allowing teams to focus on critical thinking rather than document review.
-
----
-
 ## Project Structure
 
 ```
