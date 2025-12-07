@@ -1,0 +1,7 @@
+semantic-kernel==1.39.0
+python-dotenv
+openai
+faiss-cpu
+numpy
+fastapi
+uvicorn
