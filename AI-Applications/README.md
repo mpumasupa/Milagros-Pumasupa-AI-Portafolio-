@@ -1,4 +1,4 @@
-# AI Applications - ITAI-2372
+# AI Applications
 
 This folder contains projects and assignments developed during the **AI Applications** course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development.
 
