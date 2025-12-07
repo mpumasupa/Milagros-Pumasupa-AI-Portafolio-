@@ -1,6 +1,7 @@
 
 # AI Research Agent
 
+## Project Overview
 AI Research Agent is an intelligent research assistant that automatically analyzes PDF and Word documents, generates structured research plans, and produces concise summaries based on relevant content. It accelerates literature review, streamlines research workflows, and helps users extract insights efficiently.
 
 This project is ideal for academics, students, and professionals who need a fast and reliable way to organize information from multiple documents.
