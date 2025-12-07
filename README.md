@@ -72,6 +72,16 @@ Milagros-Pumasupa-AI-Portfolio/
 | [Deep Learning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
 | [AI Applications](AI-Applications/)<br> | - [AI Research Agent](AI-Applications/AI-Research-Agent/)<br>- [AI Inventory Optimizer](AI-Applications/AI-Inventory-Optimizer/) | This folder contains projects and assignments developed during the AI Applications course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development. |
 
+## Portfolio Structure
+
+| Course | Projects | Description |
+|--------|----------|-------------|
+| [NLP](./NLP-Course) | - [NewsBot](./NLP-Course/Project1-NewBot-Midterm) <br> - [Sentiment and Emotion Analysis](./NLP-Course/Project2-Sentiment-and-Emotion-Analysis) <br> - [Voice Tech in the Multiverse](./NLP-Course/Project3-Voice-Tech-in-the-Multiverse) <br> - [NewsBot 2.0](./NLP-Course/Project4-NewBot-2.0-FinalProject) | Projects include text analysis, sentiment and emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers. |
+| [AI Applications](./AI-Applications) | - [AI Research Agent](./AI-Applications/AI-Research-Agent) <br> - [AI Inventory Optimizer](./AI-Applications/AI-Inventory-Optimizer) | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
+| [Machine Learning](./MachineLearning-Course) | - Projects coming soon | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
+| [Deep Learning](./DeepLearning-Course) | - Projects coming soon | Focus on neural networks, CNNs, RNNs, and other deep learning models applied to various tasks. |
+
+
 
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
