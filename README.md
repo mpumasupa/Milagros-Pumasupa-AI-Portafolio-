@@ -60,5 +60,18 @@ Milagros-Pumasupa-AI-Portfolio/
 | [Deep Learning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
 
 
+
+# Portfolio Structure
+
+| Course | Projects | Description |
+|--------|---------|-------------|
+| NLP | - [NewsBot](NLP/NewsBot/)<br>- [Sentiment and Emotion Analysis](NLP/Sentiment-and-Emotion-Analysis/)<br>- [Polyglot Nebula-Voice Tech in the Multiverse](NLP/Polyglot-Nebula-Voice-Tech/)<br>- [NewsBot 2.0](NLP/NewsBot-2.0/) | This folder contains projects and lab assignments developed during the Natural Language Processing (NLP) course. It includes both foundational and advanced NLP techniques such as sentiment and emotion analysis, machine translation, large language models, and conversational AI. |
+| Machine Learning | - Projects coming soon | Classical ML techniques to be developed during the course. |
+| Deep Learning | - Projects coming soon | Neural networks and DL models will be added progressively. |
+| AI Applications | - [AI Research Agent](AI-Applications/AI-Research-Agent/)<br>- [AI Inventory Optimizer](AI-Applications/AI-Inventory-Optimizer/) | This folder contains projects and assignments developed during the AI Applications course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development. |
+
+
+
+
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
