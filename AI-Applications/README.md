@@ -21,4 +21,4 @@ This folder contains projects and assignments developed during the **AI Applicat
 
 Milagros Pumasupa Terán  
 Artificial Intelligence Student | AI Applications  
-GitHub: [Your GitHub link] PENDIENTE
+GitHub: [Milagros Pumasupa AI Portfolio](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main)
