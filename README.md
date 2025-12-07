@@ -6,9 +6,9 @@ I hold a Bachelor’s degree in Statistics and am currently pursuing coursework 
 
 ---
 ## About Me
-- **Education:** Bachelor’s degree in Statistics; currently studying Natural Language Processing.
+- **Education:** Bachelor’s degree in Statistics; currently pursuing the Artificial Intelligence Resource course, where I gain practical experience in building AI applications. The course emphasizes project-based learning, enabling me to develop, experiment, and optimize AI solutions across various domains.
 - **Interests:** NLP, Machine Learning, Deep Learning, Data Analysis, and AI applications for real-world problems.
-- **Skills:** Python Programming (basic), Machine Learning Pipeline, Understanding of Artificial Intelligence History and Fundamentals, Git/GitHub, ++++++
+- **Skills:** Python Programming, Machine Learning Pipeline, Understanding of Artificial Intelligence History and Fundamentals, Git/GitHub, ++++++
 - **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
 ---
 
@@ -77,18 +77,22 @@ Milagros-Pumasupa-AI-Portfolio/
     <tr>
       <td><a href="./NLP-Course">NLP</a></td>
       <td style="font-size: 0.85em;">
-        <a href="./NLP-Course/Project1-NewBot-Midterm">NewsBot</a><br>
-        <a href="./NLP-Course/Project2-Sentiment-and-Emotion-Analysis">Sentiment and Emotion Analysis</a><br>
-        <a href="./NLP-Course/Project3-Voice-Tech-in-the-Multiverse">Voice Tech in the Multiverse</a><br>
-        <a href="./NLP-Course/Project4-NewBot-2.0-FinalProject">NewsBot 2.0</a>
+        <ul style="margin:0; padding-left: 20px;">
+          <li><a href="./NLP-Course/Project1-NewBot-Midterm">NewsBot</a></li>
+          <li><a href="./NLP-Course/Project2-Sentiment-and-Emotion-Analysis">Sentiment and Emotion Analysis</a></li>
+          <li><a href="./NLP-Course/Project3-Voice-Tech-in-the-Multiverse">Voice Tech in the Multiverse</a></li>
+          <li><a href="./NLP-Course/Project4-NewBot-2.0-FinalProject">NewsBot 2.0</a></li>
+        </ul>
       </td>
       <td>Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers.</td>
     </tr>
     <tr>
       <td><a href="./AI-Applications">AI Applications</a></td>
       <td style="font-size: 0.85em;">
-        <a href="./AI-Applications/AI-Research-Agent">AI Research Agent</a><br>
-        <a href="./AI-Applications/AI-Inventory-Optimizer">AI Inventory Optimizer</a>
+        <ul style="margin:0; padding-left: 20px;">
+          <li><a href="./AI-Applications/AI-Research-Agent">AI Research Agent</a></li>
+          <li><a href="./AI-Applications/AI-Inventory-Optimizer">AI Inventory Optimizer</a></li>
+        </ul>
       </td>
       <td>Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs.</td>
     </tr>
@@ -104,6 +108,10 @@ Milagros-Pumasupa-AI-Portfolio/
     </tr>
   </tbody>
 </table>
+
+Thank you for visiting my portfolio!  
+**Contact:** [Email](mailto:milagrospumasupa@gmail.com)
+
 
 
 Thank you for visiting my portfolio! 
