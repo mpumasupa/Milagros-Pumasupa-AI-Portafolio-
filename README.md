@@ -1,3 +1,4 @@
+
 # Milagros Pumasupa - AI Portafolio
 Welcome! My name is **Milagros Pumasupa**. This repository contains my personal portfolio of AI-related coursework and projects, organized by course and topic. Each folder represents a course, and within each course are projects demonstrating specific concepts and techniques in NLP, Machine Learning, and Deep Learning.
 
@@ -59,6 +60,8 @@ Milagros-Pumasupa-AI-Portfolio/
 | [Machine Learning](./MachineLearning-Course) | [](./MachineLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                 | Classical ML techniques to be developed during the course.                                                                       |
 | [Deep Learning](./DeepLearning-Course)       | [](./DeepLearning-Course/Project1-1/) <br> - Projects coming soon                                                                                                                                                                                                    | Neural networks and DL models will be added progressively.                                                                       |
 | [AI Applications](./AI Applications) | - [AI Research Agent](AI-Applications/AI-Research-Agent/)<br>- [AI Inventory Optimizer](AI-Applications/AI-Inventory-Optimizer/) | This folder contains projects and assignments developed during the AI Applications course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development. |
+| AI Applications | - [AI Research Agent](AI-Applications/AI-Research-Agent/)<br>- [AI Inventory Optimizer](AI-Applications/AI-Inventory-Optimizer/) | This folder contains projects and assignments developed during the AI Applications course. It demonstrates practical applications of AI in research assistance and business optimization, covering data preprocessing, feature engineering, model experimentation, and prototype development. |
+
 
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
