@@ -86,7 +86,20 @@ Milagros-Pumasupa-AI-Portfolio/
 | AI Applications | [AI-Applications-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/AI-Applications) | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs.
 | Machine Learning | [MachineLearning-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/MachineLearning-Course) | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
 
+Portfolio Structure
 
+Course | Projects | Description
+--- | --- | ---
+
+Computer Vision | [AI-Powered Vehicle Damage Detection](https://github.com/mpumasupa/AI-Powered-Vehicle-Damage-Detection) | Object Detection (YOLOv8). This project automatically identifies and classifies vehicle damage (dents, scratches, broken lights, cracked windshields) in images. It includes dataset preprocessing, model training, evaluation, and deployment for automated inspection workflows in insurance, fleet management, and automotive services using Python, PyTorch, YOLOv8, OpenCV, and Streamlit.
+
+NLP | [NLP-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/NLP-Course) | [NewsBot](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/NLP-Course/Project1-NewBot-Midterm), Sentiment and Emotion Analysis, Voice Tech in the Multiverse, NewsBot 2.0. Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers.
+
+AI Applications | [AI-Applications-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/AI-Applications-Course) | [AI Research Agent](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/AI-Applications-Course/AI-Research-Agent), [AI Inventory Optimizer](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/AI-Applications-Course/AI-Inventory-Optimizer). Practical AI systems including intelligent assistants for document analysis and predictive inventory optimization using Python, XGBoost, and AI APIs.
+
+Machine Learning | [MachineLearning-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/MachineLearning-Course) | Projects coming soon. Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering.
+
+Deep Learning | (to be added) | Focus on neural networks, CNNs, RNNs, and other deep learning models applied to various tasks.
 
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
