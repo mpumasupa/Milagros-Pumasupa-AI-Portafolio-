@@ -76,16 +76,6 @@ The model is trained using transfer learning and fine-tuned on the vehicle damag
 These metrics evaluate the model’s ability to accurately detect and classify vehicle damage while maintaining fast inference performance suitable for real-world applications.
 
 ---
-## Week-by-Week Plan
-
-| Week | Task | Milestone |
-|-----|------|-----------|
-| Week 10 | Dataset collection | Dataset ready |
-| Week 11 | Train object detection model | Model running |
-| Week 12 | Improve accuracy | Stable performance |
-| Week 13 | Add cost estimation module | Demo ready |
-| Week 14 | Testing & documentation | Final version |
-| Week 15 | Presentation | Project demonstration |
 
 ## Resources Needed
 
