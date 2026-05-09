@@ -86,6 +86,14 @@ Milagros-Pumasupa-AI-Portfolio/
 | AI Applications | [AI-Applications-Course](https://github.com/mpumasupa/AI-Applications-Course) | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
 | Machine Learning | [MachineLearning-Course](https://github.com/mpumasupa/MachineLearning-Course) | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
 
+| Course | Projects | Description |
+|--------|----------|-------------|
+| Computer Vision | [AI-Powered Vehicle Damage Detection](https://github.com/mpumasupa/AI-Powered-Vehicle-Damage-Detection) | Object Detection (YOLOv8). This project automatically identifies and classifies vehicle damage (dents, scratches, broken lights, cracked windshields) in images. It includes dataset preprocessing, model training, evaluation, and deployment for automated inspection workflows in insurance, fleet management, and automotive services using Python, PyTorch, YOLOv8, OpenCV, and Streamlit. |
+| NLP | [NLP-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/NLP-Course) | Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers. |
+| AI Applications | [AI-Applications-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/AI-Applications-Course) | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
+| Machine Learning | [MachineLearning-Course](https://github.com/mpumasupa/Milagros-Pumasupa-AI-Portafolio-/tree/main/MachineLearning-Course) | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
+
+
 
 Thank you for visiting my portfolio! 
 **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
