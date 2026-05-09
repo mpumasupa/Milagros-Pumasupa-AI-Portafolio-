@@ -1,14 +1,14 @@
 
 # Milagros Pumasupa - AI Portafolio
-Welcome! My name is **Milagros Pumasupa**. This repository contains my personal portfolio of AI-related coursework and projects, organized by course and topic. Each folder represents a course, and within each course are projects demonstrating specific concepts and techniques in NLP, Machine Learning, Deep Learning, and AI Applications.
+Welcome! My name is **Milagros Pumasupa**. This repository contains my personal portfolio of AI-related coursework and projects, organized by course and topic. Each folder represents a course, and within each course are projects demonstrating specific concepts and techniques in NLP, Machine Learning, Computer Vision, and AI Applications.
 
-I hold a Bachelor’s degree in Statistics and am currently pursuing coursework in Artificial Intelligence, including Natural Language Processing, Machine Learning, Deep Learning, and AI Applications. My goal is to develop impactful, data-driven solutions across various domains, continuously learning and growing in the field of AI through hands-on projects and research.
+I hold a Bachelor’s degree in Statistics and am currently pursuing coursework in Artificial Intelligence, including Natural Language Processing, Machine Learning, Computer Vision, and AI Applications. My goal is to develop impactful, data-driven solutions across various domains, continuously learning and growing in the field of AI through hands-on projects and research.
 
 ---
 ## About Me
 - **Education:** Bachelor’s degree in Statistics; currently pursuing the Artificial Intelligence Resource course, where I gain practical experience in building AI applications. The course emphasizes project-based learning, enabling me to develop, experiment, and optimize AI solutions across various domains.
 - **Interests:** NLP, Machine Learning, Deep Learning, Data Analysis, and AI applications for real-world problems.
-- **Skills:** Python Programming, Machine Learning Pipeline, Understanding of Artificial Intelligence History and Fundamentals, Git/GitHub, ++++++
+- **Skills:** Python Programming, Machine Learning Pipeline, Computer Vision, Understanding of Artificial Intelligence History and Fundamentals, Git/GitHub, ++++++
 - **Contact:** [Email](mailto:milagrospumasupa@gmail.com)
 ---
 
@@ -16,6 +16,18 @@ I hold a Bachelor’s degree in Statistics and am currently pursuing coursework 
 ```
 Milagros-Pumasupa-AI-Portfolio/
 ├── README.md
+│
+├── Computer-Vision/
+│   ├── README.md
+│   └── AI-Powered-Vehicle-Damage-Detection/
+│       ├── README.md
+│       ├── data/
+│       ├── docs/
+│       ├── notebooks/
+│       ├── models/
+│       ├── src/
+│       └── results/
+│
 ├── NLP-Course/
 │   ├── README.md
 │   ├── Project1-NewBot-Midterm/
@@ -24,38 +36,40 @@ Milagros-Pumasupa-AI-Portfolio/
 │   │   ├── docs/
 │   │   ├── notebooks/
 │   │   └── optional/
+│   │
 │   ├── Project2-Sentiment-and-Emotion-Analysis/
 │   │   ├── README.md
 │   │   └── notebooks/
+│   │
 │   ├── Project3-Voice-Tech-in-the-Multiverse/
 │   │   ├── README.md
 │   │   └── docs/
+│   │
 │   └── Project4-NewBot-2.0-FinalProject/
-│       ├── README.md       
-│       ├── data/           
-│       ├── docs/              
-│       ├── notebooks/        
-│       └── src/                
-├── MachineLearning-Course/  # Projects coming soon as the course progresses
+│       ├── README.md
+│       ├── data/
+│       ├── docs/
+│       ├── notebooks/
+│       └── src/
+│
+├── MachineLearning-Course/
 │   ├── README.md
 │   └── Project1-1/
-├── DeepLearning-Course/  # Projects coming soon as the course progresses
+│
+├── AI-Applications-Course/
 │   ├── README.md
-│   └── Project1-1/
-└── AI-Applications-Course/
-    ├── README.md
-    ├── AI-Research-Agent/
-    │   ├── README.md
-    │   ├── data/           
-    │   ├── notebooks/
-    │   └── src/            
-    └── AI-Inventory-Optimizer/
-        ├── README.md
-        ├── data/           
-        ├── notebooks/
-        ├── mvp/            
-        └── src/           
-
+│   ├── AI-Research-Agent/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   ├── notebooks/
+│   │   └── src/
+│   │
+│   └── AI-Inventory-Optimizer/
+│       ├── README.md
+│       ├── data/
+│       ├── notebooks/
+│       ├── mvp/
+│       └── src/
 ```
 ## How to use this repository
 
