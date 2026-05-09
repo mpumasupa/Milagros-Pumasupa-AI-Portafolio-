@@ -123,25 +123,14 @@ Milagros-Pumasupa-AI-Portfolio/
   </tbody>
 </table>
 
-
-
-
-
 # Portfolio Structure
 
-Course | Projects | Description
---- | --- | ---
-
-Computer Vision | AI-Powered Vehicle Damage Detection | Object Detection (YOLOv8). This project uses deep learning-based object detection to automatically identify and classify vehicle damage (dents, scratches, broken lights, cracked windshields) in images. It includes dataset preprocessing, model training, evaluation, and deployment for automated inspection workflows in insurance, fleet management, and automotive services using Python, PyTorch, YOLOv8, OpenCV, and Streamlit.
-
-NLP | NewsBot<br>Sentiment and Emotion Analysis<br>Voice Tech in the Multiverse<br>NewsBot 2.0 | Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers.
-
-AI Applications | AI Research Agent<br>AI Inventory Optimizer | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs.
-
-Machine Learning | Projects coming soon | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering.
-
-Thank you for visiting my portfolio!  
-**Contact:** [Email](mailto:milagrospumasupa@gmail.com)
+| Course | Projects | Description |
+|--------|----------|-------------|
+| Computer Vision | AI-Powered Vehicle Damage Detection | Object Detection (YOLOv8). This project automatically identifies and classifies vehicle damage (dents, scratches, broken lights, cracked windshields) in images. It includes dataset preprocessing, model training, evaluation, and deployment for automated inspection workflows in insurance, fleet management, and automotive services using Python, PyTorch, YOLOv8, OpenCV, and Streamlit. |
+| NLP | NewsBot / Sentiment and Emotion Analysis / Voice Tech in the Multiverse / NewsBot 2.0 | Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers. |
+| AI Applications | AI Research Agent / AI Inventory Optimizer | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
+| Machine Learning | Projects coming soon | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
 
 
 
