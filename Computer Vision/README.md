@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-This folder contains my projects focused on Computer Vision and Deep Learning applications, where I explore how AI can interpret and analyze visual data such as images and videos.
+This folder contains my projects focused on Computer Vision applications, where I explore how AI can interpret and analyze visual data such as images and videos.
 
 Computer Vision is a key area of Artificial Intelligence that enables machines to see and understand the world, powering applications such as object detection, image classification, and damage assessment systems.
 
