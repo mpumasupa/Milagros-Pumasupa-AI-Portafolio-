@@ -77,62 +77,6 @@ Milagros-Pumasupa-AI-Portfolio/
 2. Inside each course, explore the projects.
 3. Each project has its own README with instructions, documentation, code, data and metrics.
 
-## Portfolio Structure
-
-<table>
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th style="width: 300px; font-size: 0.9em;">Projects</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="./NLP-Course">NLP</a></td>
-      <td style="font-size: 0.85em;">
-        <ul style="margin:0; padding-left: 20px;">
-          <li><a href="./NLP-Course/Project1-NewBot-Midterm">NewsBot</a></li>
-          <li><a href="./NLP-Course/Project2-Sentiment-and-Emotion-Analysis">Sentiment and Emotion Analysis</a></li>
-          <li><a href="./NLP-Course/Project3-Voice-Tech-in-the-Multiverse">Voice Tech in the Multiverse</a></li>
-          <li><a href="./NLP-Course/Project4-NewBot-2.0-FinalProject">NewsBot 2.0</a></li>
-        </ul>
-      </td>
-      <td>Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers.</td>
-    </tr>
-    <tr>
-      <td><a href="./AI-Applications">AI Applications</a></td>
-      <td style="font-size: 0.85em;">
-        <ul style="margin:0; padding-left: 20px;">
-          <li><a href="./AI-Applications/AI-Research-Agent">AI Research Agent</a></li>
-          <li><a href="./AI-Applications/AI-Inventory-Optimizer">AI Inventory Optimizer</a></li>
-        </ul>
-      </td>
-      <td>Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs.</td>
-    </tr>
-    <tr>
-      <td><a href="./MachineLearning-Course">Machine Learning</a></td>
-      <td style="font-size: 0.85em;">Projects coming soon</td>
-      <td>Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering.</td>
-    </tr>
-    <tr>
-      <td><a href="./DeepLearning-Course">Deep Learning</a></td>
-      <td style="font-size: 0.85em;">Projects coming soon</td>
-      <td>Focus on neural networks, CNNs, RNNs, and other deep learning models applied to various tasks.</td>
-    </tr>
-  </tbody>
-</table>
-
-# Portfolio Structure
-
-| Course | Projects | Description |
-|--------|----------|-------------|
-| Computer Vision | AI-Powered Vehicle Damage Detection | Object Detection (YOLOv8). This project automatically identifies and classifies vehicle damage (dents, scratches, broken lights, cracked windshields) in images. It includes dataset preprocessing, model training, evaluation, and deployment for automated inspection workflows in insurance, fleet management, and automotive services using Python, PyTorch, YOLOv8, OpenCV, and Streamlit. |
-| NLP | NewsBot / Sentiment and Emotion Analysis / Voice Tech in the Multiverse / NewsBot 2.0 | Projects include text analysis, sentiment & emotion detection, voice processing, and large-scale NLP pipelines using Python, NLTK, spaCy, and Transformers. |
-| AI Applications | AI Research Agent / AI Inventory Optimizer | Practical AI projects including intelligent assistants for document analysis and predictive systems for inventory optimization using Python, XGBoost, and AI APIs. |
-| Machine Learning | Projects coming soon | Hands-on exercises with classical machine learning techniques such as regression, classification, and clustering. |
-
-
 # Portfolio Structure
 
 | Course | Projects | Description |
